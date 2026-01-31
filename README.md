@@ -29,6 +29,5 @@
     * **OS**: Windows (PowerShell)
     * **Language**: Python 3.x
     * **Core Libs**: `Open3D` (可视化), `sqlite3` (数据读取), `pytest` (测试), `PyInstaller` (打包)
-    * **Note**: 暂时不涉及 C++ 代码。
 
 ---

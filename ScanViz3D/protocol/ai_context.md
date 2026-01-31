@@ -15,7 +15,6 @@ AI should update this section when structure changes：
 MVP-TestDrivenDevelopment/
 └── ScanViz3D/
     ├── .gitignore              # [配置] 忽略 venv, dist, build, __pycache__ 等
-    ├── README.md               # [文档] 项目说明 & AI 协议
     ├── requirements.txt        # [依赖] open3d, pytest, pyinstaller 等
     ├── main.py                 # [入口] 程序启动入口
     │
@@ -41,6 +40,7 @@ MVP-TestDrivenDevelopment/
         ├── test_visualizer.py  # 针对 visualizer 的测试
         ├── test_utils_data.py  # [新增] 针对 utils_data_loader 的细粒度测试
         └── test_utils_viz.py   # [新增] 针对 utils_visualizer 的细粒度测试
+└──  README.md               # [文档] 项目说明 & AI 协议
 ```
 
 ## 3. API Signature Registry (AI Updates This)
