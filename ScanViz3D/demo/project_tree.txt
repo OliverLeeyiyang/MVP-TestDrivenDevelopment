@@ -1,0 +1,35 @@
+# ScanViz3D 项目树结构
+
+根目录: H:\MVP-TestDrivenDevelopment\ScanViz3D
+
+├── .gitignore
+├── build_tools
+    └── build_exe.py
+├── data
+    └── scan_data.db
+├── demo
+    ├── demo_data_loader.md
+    ├── demo_data_loader.py
+    ├── generate_project_tree.py
+    ├── inspect_db.py
+    └── project_tree.txt
+├── main.py
+├── protocol
+    ├── api_spec.md
+    ├── decision_log.md
+    ├── manifest.md
+    ├── other_info.md
+    └── project_map.md
+├── requirements.txt
+├── src
+    ├── __init__.py
+    ├── data_loader.py
+    ├── utils_data_loader.py
+    ├── utils_visualizer.py
+    └── visualizer.py
+└── tests
+    ├── __init__.py
+    ├── test_loader.py
+    ├── test_utils_data.py
+    ├── test_utils_viz.py
+    └── test_visualizer.py
