@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Test coverage
+.coverage/
+htmlcov/
+
+# Logs
+logs/
+*.log
+
+# Windows
+ehthumbs.db
+
+# PyInstaller
+*.spec
